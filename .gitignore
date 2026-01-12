@@ -7,3 +7,5 @@ devenv.*
 
 # pre-commit
 .pre-commit-config.yaml
+public/
+resources/
