@@ -1,9 +1,9 @@
 +++
-draft = false
+toc = false
 title = 'About'
 +++
 
-Founded in 2025, ret2sutd plays CTFs and organizes weekly meetups! ret2sutd strives to build a strong cybersecurity community in SUTD, with a focus on hardware and OT security. We believe cybersecurity is key to safeguarding our digital world, we’re committed to growing the next generation of cybersecurity talent.  
+Founded in 2025, 3DC Cyber Division plays CTFs and organizes weekly meetups! We strive to build a strong cybersecurity community in SUTD, with a focus on hardware and OT security. We believe cybersecurity is key to safeguarding our digital world, and we’re committed to growing the next generation of cybersecurity talent.  
 
 ----
 
